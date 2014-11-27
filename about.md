@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this blow
+title: About this blog
 permalink: /about/
 ---
 # Building an aresenal for massive data analytics
