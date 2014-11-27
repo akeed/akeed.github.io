@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-11-27T17:38:57+01:00</updated>
+<updated>2014-11-27T22:11:55+01:00</updated>
 <id>/</id>
 <author>
   <name>Ake Edlund</name>
@@ -17,16 +17,16 @@
 
 <entry>
   <title type="html"><![CDATA[Using Jekyll (after trying to get Pelican to work)!]]></title>
-  <link rel="alternate" type="text/html" href="/jekyll/welcome-to-jekyll/" />
-  <id>/jekyll/welcome-to-jekyll</id>
-  <published>2014-11-27T12:34:53+01:00</published>
-  <updated>2014-11-27T12:34:53+01:00</updated>
+  <link rel="alternate" type="text/html" href="/blog/welcome-to-jekyll/" />
+  <id>/blog/welcome-to-jekyll</id>
+  <published>2014-11-27T16:34:53+01:00</published>
+  <updated>2014-11-27T16:34:53+01:00</updated>
   <author>
     <name>Ake Edlund</name>
     <uri></uri>
     <email>ake.edlund@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;em&gt;This is not the kind of posts to expect on this blog, but I feel a need to give kudos to Jekyll: thanks for your work!&lt;/em&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;strong&gt;This is not the kind of posts to expect on this blog, but I feel a need to give kudos to Jekyll: thanks for your work!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Inspired by Izhar’s &lt;a href=&quot;http://ezhaar.github.io&quot;&gt;How I did it&lt;/a&gt; blog, I tried to get the same environment, but will go with Jekyll for now (easier to get up and running - for me).&lt;/p&gt;
 
@@ -38,8 +38,24 @@
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Thanks also to So Simple Theme makers for your work!&lt;/strong&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/jekyll/welcome-to-jekyll/&quot;&gt;Using Jekyll (after trying to get Pelican to work)!&lt;/a&gt; was originally published by Ake Edlund at &lt;a href=&quot;&quot;&gt;Learning by doing&lt;/a&gt; on November 27, 2014.&lt;/p&gt;</content>
+&lt;p&gt;About So Simple Theme:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Responsive templates. Looking good on mobile, tablet, and desktop.&lt;/li&gt;
+  &lt;li&gt;Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.&lt;/li&gt;
+  &lt;li&gt;Minimal embellishments and subtle animations.&lt;/li&gt;
+  &lt;li&gt;Optional large feature images for posts and pages.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/404.html&quot;&gt;Custom 404 page&lt;/a&gt; to get you started.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/christian-fei/Simple-Jekyll-Search&quot;&gt;Simple site search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Support for Disqus Comments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/theme-setup&quot; class=&quot;btn&quot;&gt;Install So Simple Theme&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/welcome-to-jekyll/&quot;&gt;Using Jekyll (after trying to get Pelican to work)!&lt;/a&gt; was originally published by Ake Edlund at &lt;a href=&quot;&quot;&gt;Learning by doing&lt;/a&gt; on November 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -87,9 +103,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2014-06-19T00:00:00+02:00</published>
   <updated>2014-06-19T00:00:00+02:00</updated>
   <author>
-    <name>Billy Rick</name>
+    <name></name>
     <uri></uri>
-    <email>billy@rick.com</email>
+    
   </author>
   <content type="html">&lt;p&gt;For those of you who may have content written by multiple authors on your site you can now assign different authors to each post if desired.&lt;/p&gt;
 
@@ -122,7 +138,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;billy_rick&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/author-override/&quot;&gt;Override Author Byline Test Post&lt;/a&gt; was originally published by Billy Rick at &lt;a href=&quot;&quot;&gt;Learning by doing&lt;/a&gt; on June 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/articles/author-override/&quot;&gt;Override Author Byline Test Post&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Learning by doing&lt;/a&gt; on June 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 

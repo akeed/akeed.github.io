@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this blog
+title: About this site
 excerpt: "Building an aresenal for massive data analytics."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:

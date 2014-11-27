@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Theme Setup
-excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
+title: Useful Links
+excerpt: "Collection of links to data analytics related pages"
 modified: 2014-08-08T20:04:41.231140-04:00
 image:
   feature: so-simple-sample-image-6.jpg

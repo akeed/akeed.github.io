@@ -9,8 +9,11 @@
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Useful Links
+  url: /useful-links/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Contact
+  url: /contact/
+  
+#- title: Made Mistakes
+#  url: http://mademistakes.com
