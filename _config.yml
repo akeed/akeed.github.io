@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://akeed.github.io" # the base hostname & protocol for your site
 twitter_username: akeed
 github_username:  akeed
+linkedin_username:  se.linkedin.com/in/aaked/
 
 # Build settings
 markdown: kramdown
