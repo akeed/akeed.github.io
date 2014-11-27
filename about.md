@@ -1,11 +1,30 @@
 ---
 layout: page
-title: About
+title: Building an aresenal for massive data analytics
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+On my list of things I've been playin with the latest years, and that I intend to write about here:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Data Analytics Stacks
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- Apache Spark - everything from the basics to the current state. I'll divide this into sub cathegories (have to), adding my own experiences from using all this (the documentation is getting OK on Spark, no need to reproduce).
+
+- Hadoop - and it's zoo (same as above)
+
+All with the focus on private, stand-alone, infrastructures. I think this is where I could add something. 
+
+- UIs - the evolving efforts on making above accessible to a larger group *and* helping with visualization. I've tried IPyNB quite much, for Spark, and some of Zeppelin. 
+
+- Machine Learning and Statistics - well, that's a *huge* take, but you need to constantly learn new things in this area, not giving up to the vast amount of knowledge there is.
+
+- Applications - use cases from the real world... 
+
+- Language considerations - (I know, this easily becomes heated) - pros and cons, and the fact that we need to know many languages to be able to get what we want.
+
+- (more)
+
+
+
+
+
