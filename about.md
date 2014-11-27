@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Building an aresenal for massive data analytics
+title: About this blow
 permalink: /about/
 ---
+# Building an aresenal for massive data analytics
 
 On my list of things I've been playin with the latest years, and that I intend to write about here:
 

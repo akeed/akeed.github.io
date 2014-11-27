@@ -4,6 +4,8 @@ title:  "Using Jekyll (after trying to get Pelican to work)!"
 date:   2014-11-27 11:34:53
 categories: jekyll
 ---
+*This is not the kind of posts to expect on this blog, but I feel a need to give kudos to Jekyll: thanks for your work!*
+
 Inspired by Izhar's [How I did it][izhar-blog] blog, I tried to get the same environment, but will go with Jekyll for now (easier to get up and running - for me).
 
 I use the base Jekyll theme (= I'm lazy). You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)

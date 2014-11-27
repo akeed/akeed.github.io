@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning by doing</title>
+    <description>Exploring novel techniques and methodologies in the area of  massive data analysis, spanning from math to latest and greatest data analytics stacks - like Apache Spark. Also tinkering with all kind of tools and services, including IPyNB, Zeppelin, Docker, ... and the &#39;old&#39;, still evovling, ecosystem around Hadoop.
+</description>
+    <link>http://akeed.github.io/</link>
+    <atom:link href="http://akeed.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Nov 2014 12:42:19 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2014 12:42:19 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Using Jekyll (after trying to get Pelican to work)!</title>
+        <description>&lt;p&gt;Inspired by Izhar’s &lt;a href=&quot;http://ezhaar.github.io&quot;&gt;How I did it&lt;/a&gt; blog, I tried to get the same environment, but will go with Jekyll for now (easier to get up and running - for me).&lt;/p&gt;
+
+&lt;p&gt;I use the base Jekyll theme (= I’m lazy). You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find the source code for the Jekyll new theme at: &lt;a href=&quot;https://github.com/jglovier/jekyll-new&quot;&gt;github.com/jglovier/jekyll-new&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find the source code for Jekyll at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;github.com/jekyll/jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Nov 2014 12:34:53 +0100</pubDate>
+        <link>http://akeed.github.io/jekyll/2014/11/27/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://akeed.github.io/jekyll/2014/11/27/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
