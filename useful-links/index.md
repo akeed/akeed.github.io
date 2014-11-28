@@ -32,6 +32,7 @@ http://spark.apache.org
 
 {% highlight text %}
 ...
+{% endhighlight %}
 
 ---
 
@@ -49,7 +50,6 @@ http://spark.apache.org
 |    ├── ...               	   # ...
 |    └── ...                     # ...
 ├── .../                      # ...
-
 {% endhighlight %}
 
 ---
