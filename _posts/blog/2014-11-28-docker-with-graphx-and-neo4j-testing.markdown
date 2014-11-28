@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: [GraphX, Neo4j]
 image: 
-  feature: tables_and_graphs.png
+  feature: 
   credit: AMPLab
   creditlink: https://amplab.cs.berkeley.edu
 date: 2014-11-28T08:56:27+01:00
