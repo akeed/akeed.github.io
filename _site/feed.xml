@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-11-28T09:18:39+01:00</updated>
+<updated>2014-11-28T09:37:58+01:00</updated>
 <id>/</id>
 <author>
   <name>Ake Edlund</name>
@@ -26,7 +26,9 @@
     <uri></uri>
     <email>ake.edlund@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.kennybastani.com&quot;&gt;Kenny Bastiani&lt;/a&gt; just &lt;a href=&quot;http://www.kennybastani.com/2014/11/graph-analytics-docker-spark-neo4j.html&quot;&gt;released&lt;/a&gt; a very interesting Docker Image promising &lt;strong&gt;a Docker Image for Graph Analytics on Neo4j with Apache Spark GraphX&lt;/strong&gt; ! Must try this today. Stay tuned.&lt;/p&gt;
+  <content type="html">&lt;p&gt;-&amp;gt; &lt;img src=&quot;./images/tables_and_graphs.png&quot; alt=&quot;Drawing&quot; style=&quot;width: 400px;&quot; /&gt; &amp;lt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.kennybastani.com&quot;&gt;Kenny Bastiani&lt;/a&gt; just &lt;a href=&quot;http://www.kennybastani.com/2014/11/graph-analytics-docker-spark-neo4j.html&quot;&gt;released&lt;/a&gt; a very interesting Docker Image promising &lt;strong&gt;a Docker Image for Graph Analytics on Neo4j with Apache Spark GraphX&lt;/strong&gt; ! Must try this today. Stay tuned.&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;/blog/docker-with-graphx-and-neo4j-testing/&quot;&gt;Docker With GraphX and Neo4j - Testing, testing&lt;/a&gt; was originally published by Ake Edlund at &lt;a href=&quot;&quot;&gt;Learning by doing&lt;/a&gt; on November 28, 2014.&lt;/p&gt;</content>
