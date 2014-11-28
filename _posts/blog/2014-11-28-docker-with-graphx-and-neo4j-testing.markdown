@@ -12,7 +12,7 @@ image:
 date: 2014-11-28T08:56:27+01:00
 ---
 
--><img src="http://akeed.github.io/images/tables_and_graphs.png" alt="Drawing" style="width: 400px;"/><-
+<p style='text-align: center;'><img src="http://akeed.github.io/images/tables_and_graphs.png" alt="Drawing" style="width: 400px;"/></p>
 
 [Kenny Bastiani][bastiani] just [released][bastiani-nov28-2014] a very interesting Docker Image promising **a Docker Image for Graph Analytics on Neo4j with Apache Spark GraphX** ! Must try this today. Stay tuned.
 
