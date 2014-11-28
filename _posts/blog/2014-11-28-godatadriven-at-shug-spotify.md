@@ -12,6 +12,12 @@ date: 2014-11-28T11:41:15+01:00
 
 Nice talk by Friso van Vollenhove and Andrew Snare from GoDataDriven.com - including using spark (using IPyNB when demoing).
 
-See slides [here][godatadriven-shug]
+See slides [here][godatadriven-shug-slides]
 
-[godatadriven-shug]: http://www.slideshare.net/fvanvollenhoven/divolte-collector-meetup-presentation
+and github [here][godatadriven-shug-github]
+
+*SHUG is Stockholm Hadoop User Group*
+
+[godatadriven-shug-slides]: http://www.slideshare.net/fvanvollenhoven/divolte-collector-meetup-presentation
+
+[godatadriven-shug-github]: https://github.com/divolte
