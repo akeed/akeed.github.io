@@ -10,7 +10,7 @@ image:
 date: 2014-11-28T11:41:15+01:00
 ---
 
-Nice talk by Friso van Vollenhove and Andrew Snare from GoDataDriven.com - including using spark (using IPyNB when demoing).
+Nice talk by Friso van Vollenhoven and Andrew Snare from GoDataDriven.com - including using spark (using IPyNB when demoing).
 
 See slides [here][godatadriven-shug-slides]
 
