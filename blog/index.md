@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Blog
+image:
+  feature: so-simple-sample-image-3.jpg
+  credit: WeGraphics
 excerpt: "An archive of blog posts sorted by date."
 ---
 

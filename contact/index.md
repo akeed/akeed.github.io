@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Contact"
-date: 
-modified:
-excerpt:
+title: Contact
 image:
-  feature:
+  feature: so-simple-sample-image-5.jpg
+  credit: WeGraphics
+excerpt: "How to contact"
 ---
 ake.edlund@gmail.com
+
+

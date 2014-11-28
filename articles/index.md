@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Sample Articles
+image:
+  feature: so-simple-sample-image-2.jpg
+  credit: WeGraphics
 excerpt: "An archive of articles sorted by date."
 ---
 
