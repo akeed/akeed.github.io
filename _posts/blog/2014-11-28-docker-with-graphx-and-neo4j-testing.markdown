@@ -2,13 +2,14 @@
 layout: post
 title: "Docker With GraphX and Neo4j - Testing, testing"
 modified:
-categories: GraphX, Neo4j
+categories: blog
 excerpt:
-tags: []
-image:
+tags: [GraphX, Neo4j]
+image: 
   feature:
 date: 2014-11-28T08:56:27+01:00
 ---
+
 
 [Kenny Bastiani][bastiani] just [released][bastiani-nov28-2014] a very interesting Docker Image promising **a Docker Image for Graph Analytics on Neo4j with Apache Spark GraphX** ! Must try this today. Stay tuned.
 
