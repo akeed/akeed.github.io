@@ -1,5 +1,8 @@
 # Thoughts on how to increase learning within organizations
 
+*Published: December 8, 2023*
+
+
 *“I’ve been doing this for years, I learned a lot and I’m constantly learning new things”.*
 
 <span style="font-size: 200%;">W</span>ell, if you think you’re an expert, maybe you are, or maybe only as long as you stay in your pond, your comfort zone. Not everyone needs to be an expert, but we all do know a lot of things very well. Or do we?
