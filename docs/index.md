@@ -9,7 +9,7 @@ Browse the latest articles in the [Articles section](articles/index.md).
 ## About me
 
 I'm Ake Edlund, a oldtimer in the tech industry with a passion for sharing knowledge and exploring new technologies.
-My linkedin: https://www.linkedin.com/in/aaked/
+My [linkedin](https://www.linkedin.com/in/aaked/)
 
 ## About this site
 
