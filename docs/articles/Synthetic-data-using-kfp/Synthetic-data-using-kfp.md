@@ -153,7 +153,7 @@ This is what we want to do: we have a use case, the supporting data, and develop
 1. Create the synthetic data and save the best synthetic data generator. In this step similarity measures are created by the out of the box SDV framework
 2. Create the ML model (in our case classifier model) both on real data and the using the synthetic data. Compare the performance of both models against the same real data testset.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 From above, we have an example where the final synthesizer is collected and saved. This step is used in the example below, exporting the resulting synthetic data generator to cloud.
 
@@ -176,7 +176,7 @@ From above, we have an example where the final synthesizer is collected and save
 5. Evaluate: Compare the on-premise AI model with the model created in the cloud - against the same test data
 
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 
 **Division of work, what is done on-premise with Kubeflow, and what is done in cloud (AWS SageMaker)?**
@@ -196,11 +196,11 @@ Cloud
 - Increase the amount of synthetic data, to see if the increase of synthetic data improves model performance (not for sure it will, see below comment)
 - Export model to on-premise
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 In some more detail below.
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 On-premise
 

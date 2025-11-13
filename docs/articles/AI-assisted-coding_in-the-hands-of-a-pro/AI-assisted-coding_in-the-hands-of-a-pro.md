@@ -21,11 +21,11 @@ So, what am I building? Basic things, tools that help me handle the tsunami of i
 
 **Back to the builder, you’ll be amazed**
 
-So, what did happen when one of our great builders tried out AI assisted coding? He build a complete analytics stack…! He’s very modest, so he calls it a ‘DataLab’ Playground. It’s more, and it will evolve into something really useful, if you ask me. I tested it out, and it worked like a charm, and it will be very useful for my work.
+So, what did happen when one of our great builders tried out AI assisted coding? He build a complete analytics stack…! He's very modest, so he calls it a 'DataLab' Playground. It's more, and it will evolve into something really useful, if you ask me. I tested it out, and it worked like a charm, and it will be very useful for my work.
 
-![alt text](image.png)
+![alt text](images/image.png)
 
-- Phoenix AI observability — check (extra happy about that one, we do need it for anything or we’ll just ‘launch and pray’)
+- Phoenix AI observability — check (extra happy about that one, we do need it for anything or we'll just 'launch and pray')
 - Ollama LLM Server, Trino, Spark, metastore, object store (MinIO), vector database
 All out of the box, with notebooks guiding you the way! It runs nicely on my PC (had to borrow one from the company, I’m on Mac…).
 
