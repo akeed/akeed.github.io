@@ -1,116 +1,36 @@
-# Example Article: Markdown Features
+# AI assisted coding, in the hands of a pro
 
-*Published: November 13, 2025*
+*Published: September 19, 2025*
 
-This is a sample article demonstrating various Markdown formatting features available in MkDocs Material.
 
-## Headers
+*What happens when a true builder tries out our (corporate approved) GitHub Copilot Agent mode, with Claude?*
 
-You can use headers from H1 to H6:
+The scenario: The developer here (his name is Tarek, see below GitHub) is one of the key persons who built our open source on-premise analytics stack. He’s also a contributor (and speaker) in the Kubeflow community. He knows the bits and pieces of what it takes to put all this together. Now, during his Summer vacation he (of course) tried out the IDE above, to see how useful it might be. It was.
 
-### This is H3
-#### This is H4
-##### This is H5
+**If you’re not super good at coding**
 
-## Text Formatting
+AI assisted coding is really a multiplier, and it goes both ways. If you’re on ‘minus’ it will multiply that too. Personally (not very much on the plus side) I definitely see good value of starting with the context detailing, then start with that context.md sitting there alone in the IDE before inviting my AI buddy (let’s call the buddy ‘Bob’).
 
-**Bold text** and *italic text* can be combined ***like this***.
+**Context, Specs**
 
-You can also use ~~strikethrough~~ text.
+Along the way, I ask to update the context file, not losing the ‘code’ as we (mostly Bob) is building. If you have 20 minutes, I recommend Sean Grove’s talk ‘The New Code’. Specs is a great starting point when setting the goals with the end user.
 
-## Lists
+**The output of an accelerated builder**
 
-Unordered lists:
+So, what am I building? Basic things, tools that help me handle the tsunami of information, to keep me on top (trying to, very exhausting) of the AI space (where most people only talk about GenAI, calling it AI… let’s not discuss that for now). I also use it to test out new techniques and technologies in the AI space, to better understand what is what, how it would work in practice. I’m also using it to test out new pieces of architecture (that’s my job, architect). Basically continue with my testing things, so I can answer more detailed questions when showing (typically) powerpoints of what we built and are going towards. I do find the idea of shifting towards ‘coding then writing’ when it comes to architecting very interesting (even if not always possible, but partly).
 
-- Item 1
-- Item 2
-  - Nested item 2.1
-  - Nested item 2.2
-- Item 3
+**Back to the builder, you’ll be amazed**
 
-Ordered lists:
+So, what did happen when one of our great builders tried out AI assisted coding? He build a complete analytics stack…! He’s very modest, so he calls it a ‘DataLab’ Playground. It’s more, and it will evolve into something really useful, if you ask me. I tested it out, and it worked like a charm, and it will be very useful for my work.
 
-1. First item
-2. Second item
-3. Third item
+![alt text](image.png)
 
-## Code Blocks
+- Phoenix AI observability — check (extra happy about that one, we do need it for anything or we’ll just ‘launch and pray’)
+- Ollama LLM Server, Trino, Spark, metastore, object store (MinIO), vector database
+All out of the box, with notebooks guiding you the way! It runs nicely on my PC (had to borrow one from the company, I’m on Mac…).
 
-Inline code: `print("Hello, World!")`
+It does give a hint of the multiplier effect of AI assisted coding. Probably also about vibe coding (not discussing it here, it’s great fun, not sure anyone would to review my vibed code though).
 
-Code blocks with syntax highlighting:
+And it is just the beginning.
 
-```python
-def factorial(n):
-    """Calculate factorial recursively."""
-    if n <= 1:
-        return 1
-    return n * factorial(n - 1)
-
-print(factorial(5))  # Output: 120
-```
-
-## Blockquotes
-
-> This is a blockquote.
-> It can span multiple lines.
->
-> — Anonymous
-
-## Admonitions
-
-!!! note
-    This is a note admonition. It draws attention to important information.
-
-!!! tip
-    This is a tip that might be helpful for readers.
-
-!!! warning
-    This is a warning about something important to be aware of.
-
-!!! info "Custom Title"
-    You can customize the title of admonitions.
-
-## Tables
-
-| Feature | Supported | Notes |
-|---------|-----------|-------|
-| Markdown | ✓ | Full support |
-| Code highlighting | ✓ | Multiple languages |
-| Tables | ✓ | With alignment |
-| Admonitions | ✓ | Multiple types |
-
-## Links
-
-[Link to Google](https://www.google.com)
-
-[Link to another article](getting-started-with-mkdocs.md)
-
-## Images
-
-You can add images like this:
-
-```markdown
-![Alt text](image-url.png)
-```
-
-## Horizontal Rule
-
----
-
-## Footnotes
-
-Here's a sentence with a footnote[^1].
-
-[^1]: This is the footnote content.
-
-## Task Lists
-
-- [x] Completed task
-- [x] Another completed task
-- [ ] Incomplete task
-- [ ] Another incomplete task
-
-## Conclusion
-
-These are just some of the many formatting features available in MkDocs Material. Experiment with different elements to create engaging content!
+Where to find Tarek’s creation: https://github.com/tarekabouzeid/data-lab-playground
