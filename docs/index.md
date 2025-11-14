@@ -12,10 +12,10 @@ I'm Åke Edlund. I've spent many years moving between research, engineering, and
 
 My [Linkedin page](https://www.linkedin.com/in/aaked/)
 
-## About this site
-
-This site is built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
-
 ---
 
-*Stay hungry, stay foolish!*
+<div style="text-align: center; margin-top: 3em;">
+<em>Stay hungry, stay foolish!</em>
+</div>
+
+
