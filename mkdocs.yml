@@ -61,8 +61,7 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: index.md
-  - Articles:
-    - articles/index.md
+  - Articles: articles/index.md
 
 # Plugins
 plugins:
