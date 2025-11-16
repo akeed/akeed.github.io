@@ -4,21 +4,6 @@
     margin: 0 auto;
 }
 
-/* Default: left-aligned for mobile */
-.md-content p,
-.md-typeset p {
-    text-align: left !important;
-}
-
-/* Justify text for clean edges - only on larger screens */
-@media screen and (min-width: 60em) {
-    .md-content p,
-    .md-typeset p {
-        text-align: justify !important;
-        text-justify: inter-word;
-    }
-}
-
 /* Optional: Adjust for different screen sizes */
 @media screen and (max-width: 76.1875em) {
     .md-content__inner {
