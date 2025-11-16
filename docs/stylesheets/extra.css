@@ -4,6 +4,12 @@
     margin: 0 auto;
 }
 
+/* Default: left-aligned for mobile */
+.md-content p,
+.md-typeset p {
+    text-align: left !important;
+}
+
 /* Justify text for clean edges - only on larger screens */
 @media screen and (min-width: 60em) {
     .md-content p,
