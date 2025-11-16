@@ -52,8 +52,8 @@ I ‘Talked’ to various AI (good practice, ‘play’ the AI:s against each ot
 Some hours later it was all in place. Collecting and curating new findings into the 'platform' is now really smooth, even if the embeddings of the data takes longer (running local, all on my Mac).
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
-<img src="../Your-Creativity-Is-the-Limit-Now/images/knowledge-hub.png" alt="Landing page" style="max-width: 45%; height: auto;">
-<img src="../Your-Creativity-Is-the-Limit-Now/images/chat-example.png" alt="Chat example" style="max-width: 45%; height: auto;">
+<img src="../images/knowledge-hub.png" alt="Landing page" style="max-width: 45%; height: auto;">
+<img src="../images/chat-example.png" alt="Chat example" style="max-width: 45%; height: auto;">
 </div>
 
 
