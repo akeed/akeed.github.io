@@ -4,11 +4,13 @@
     margin: 0 auto;
 }
 
-/* Justify text for clean edges */
-.md-content p,
-.md-typeset p {
-    text-align: justify !important;
-    text-justify: inter-word;
+/* Justify text for clean edges - only on larger screens */
+@media screen and (min-width: 60em) {
+    .md-content p,
+    .md-typeset p {
+        text-align: justify !important;
+        text-justify: inter-word;
+    }
 }
 
 /* Optional: Adjust for different screen sizes */
