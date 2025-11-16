@@ -123,7 +123,7 @@ That's when I started my next project, 'AI Architecture Lab', using **AI to acce
 │                                 ▼                                           │
 │                        ┌──────────────────┐                                 │
 │                        │  data/curated/   │                                 │
-│                        │  477 Evidence    │                                 │
+│                        │  Evidence files  │                                 │
 │                        │  {id}.json       │                                 │
 │                        └──────────────────┘                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -142,7 +142,7 @@ That's when I started my next project, 'AI Architecture Lab', using **AI to acce
 │  ▼                              ▼                              ▼            │
 │ ┌──────────────┐      ┌──────────────────┐        ┌─────────────────┐       │
 │ │ Ollama LLM   │      │ spaCy NLP        │        │ Nomic Embedder  │       │
-│ │ (gemma2:2b)  │      │ (en_core_web_sm) │        │ (768-dim)       │       │
+│ │ (llama3.1:8b)│      │ (en_core_web_sm) │        │ (768-dim)       │       │
 │ └──────┬───────┘      └────────┬─────────┘        └────────┬────────┘       │
 │        │                       │                           │                │
 │        │  • Short summary      │  • Named entities         │  • Text        │
@@ -155,7 +155,7 @@ That's when I started my next project, 'AI Architecture Lab', using **AI to acce
 │                                 ▼                                           │
 │                        ┌──────────────────┐                                 │
 │                        │  data/enriched/  │                                 │
-│                        │  477 Evidence +  │                                 │
+│                        │  Evidence files +│                                 │
 │                        │  metadata        │                                 │
 │                        └──────────────────┘                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
