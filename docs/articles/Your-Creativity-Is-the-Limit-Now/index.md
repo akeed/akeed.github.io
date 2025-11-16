@@ -17,7 +17,10 @@ And, to avoid being too naive, I focused on what I can do on my own laptop. In m
 
 **Problem number one: How to keep up with new technologies, ideally using the same tech?**
 
+
 I’m hoarding information on the web, articles and posts, that I intend to read more carefully ‘one of these days’. Some are really good, and they drown in the flood. I’m selective, still I have 500+ articles to grasp. 
+
+Disclaimer: Yes, I know there are plenty of services that do this already. I've tested a few, and they are great, and I use them now-and-then, but I wanted to build it myself, to learn, and to be in control of my own data. And never underestimate *the joy of rediscovery.*
 
 **Solution:**
 
