@@ -1,0 +1,19 @@
+/* Limit content width for better readability */
+.md-content__inner {
+    max-width: 50rem; /* About 800px - adjust as needed */
+    margin: 0 auto;
+}
+
+/* Justify text for clean edges */
+.md-content p,
+.md-typeset p {
+    text-align: justify !important;
+    text-justify: inter-word;
+}
+
+/* Optional: Adjust for different screen sizes */
+@media screen and (max-width: 76.1875em) {
+    .md-content__inner {
+        max-width: 100%;
+    }
+}

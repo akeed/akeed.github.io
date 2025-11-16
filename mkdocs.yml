@@ -72,3 +72,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/akeed
+
+# Custom CSS for better readability
+extra_css:
+  - stylesheets/extra.css
