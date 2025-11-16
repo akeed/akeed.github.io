@@ -1,12 +1,7 @@
-/* Limit content width for better readability */
-.md-content__inner {
-    max-width: 50rem; /* About 800px - adjust as needed */
-    margin: 0 auto;
-}
-
-/* Optional: Adjust for different screen sizes */
-@media screen and (max-width: 76.1875em) {
+/* Limit content width for better readability on desktop */
+@media screen and (min-width: 60em) {
     .md-content__inner {
-        max-width: 100%;
+        max-width: 50rem; /* About 800px */
+        margin: 0 auto;
     }
 }
