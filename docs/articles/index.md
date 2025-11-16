@@ -4,18 +4,18 @@
 
 ## Latest
 
-- [AI Augmented: Your Creativity Is the Limit Now](Your-Creativity-Is-the-Limit-Now/Your-Creativity-Is-the-Limit-Now.md) 
+- [AI Augmented: Your Creativity Is the Limit Now](Your-Creativity-Is-the-Limit-Now/index.md) 
 
     *Building a Knowledge Hub with AI - local, practical, and iterative*
 
 
 ## Some of my older writings
 
-- [AI assisted coding, in the hands of a pro](AI-assisted-coding_in-the-hands-of-a-pro/AI-assisted-coding_in-the-hands-of-a-pro.md)
+- [AI assisted coding, in the hands of a pro](AI-assisted-coding_in-the-hands-of-a-pro/index.md)
 
     *Article on AI assisted coding by a professional developer*
 
-- [Synthetic Data Generation with Kubeflow Pipelines](Synthetic-data-using-kfp/Synthetic-data-using-kfp.md)
+- [Synthetic Data Generation with Kubeflow Pipelines](Synthetic-data-using-kfp/index.md)
 
     *Exploring synthetic data generation using Kubeflow and SDV*
 
