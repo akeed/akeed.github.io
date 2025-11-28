@@ -15,6 +15,10 @@
 
     *Article on AI assisted coding by a professional developer*
 
+- [Decision Intelligence? Yes, please.](Decision-Intelligence-Yes-Please/index.md)
+
+    *Lessons learned from analytics projects and the importance of talking to the right people*
+
 - [Synthetic Data Generation with Kubeflow Pipelines](Synthetic-data-using-kfp/index.md)
 
     *Exploring synthetic data generation using Kubeflow and SDV*
