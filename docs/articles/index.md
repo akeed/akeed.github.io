@@ -9,7 +9,7 @@
     *Building a Knowledge Hub with AI - local, practical, and iterative*
 
 
-## Some of my older writings
+## Older
 
 - [AI assisted coding, in the hands of a pro](AI-assisted-coding_in-the-hands-of-a-pro/index.md)
 
@@ -31,14 +31,8 @@
 
     *Lessons learned from analytics projects and the importance of talking to the right people*
 
-## From my academic period
+- [From my academic work](Academic-work/index.md)
 
-- [From Quantum Simulation to Data-Intensive Science](Academic-life/index.md)
-
-    *A career across three computing paradigms: HPC, grid computing, and cloud*
-
-- [My Erdős number: 3](Erdos-Number/index.md)
-
-    *The collaborative distance chain connecting me to mathematician Paul Erdős*
+    *Career journey and academic achievements*
 
 ---
