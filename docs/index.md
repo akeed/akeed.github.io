@@ -10,6 +10,8 @@ Browse the latest articles in the [Articles section](articles/index.md).
 
 I'm Åke Edlund. I've spent many years moving between research, engineering, and architecture, always driven by curiosity and a desire to understand how things work. These articles are a way for me to capture and share what I learn.
 
+[More about me](articles/Career-journey/index.md)
+
 My [Linkedin page](https://www.linkedin.com/in/aaked/)
 
 ---
