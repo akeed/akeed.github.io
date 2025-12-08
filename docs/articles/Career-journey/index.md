@@ -1,8 +1,8 @@
 # My Career Journey
 
-## [From Quantum Simulation to Data-Intensive Science](../Work-life-so-far/index.md)
+## [From Quantum Simulation to Enterprise AI](../Work-life-so-far/index.md)
 
-*A career across three computing paradigms: HPC, grid computing, and cloud*
+*A career across three computing paradigms: HPC, grid & cloud computing, and enterprise AI*
 
 ## [My Erdős number: 3](../Erdos-Number/index.md)
 
