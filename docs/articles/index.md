@@ -33,6 +33,6 @@
 
 - [From my academic work](Academic-work/index.md)
 
-    *Career journey and academic achievements*
+    *Earlier, up to mid 2015, career journey and academic achievements*
 
 ---
