@@ -132,13 +132,13 @@ In hindsight, my academic career forms a continuous arc:
 
 ---
 
-# From Data-Intensive Science to Enterprise AI Leadership at Telia
+## From Data-Intensive Science to Enterprise AI Leadership at Telia
 
 In 2015, I transitioned into Telia Company to help build industrial-scale analytics and AI capabilities.
 
 ---
 
-## Building Telia Analytics (2015–2018)
+### Building Telia Analytics (2015–2018)
 
 **Data Scientist, Telia Company (2015.08 – 2018.11)**  
 **TV & Media Analytics Lead (2015.12 – 2017.11)**  
@@ -154,27 +154,27 @@ Key contributions:
 
 ---
 
-## Enterprise Architecture Leadership for AI & Analytics (2019–Present)
+### Enterprise Architecture Leadership for AI & Analytics (2019–Present)
 
 **Chief Domain Architect, Analytics & AI (2019.01 – Present)**  
 **Head of Analytics IT Architecture (2022.05 – 2024.11)**  
 **Lead Architect AI (2024.12 – Present)**  
 
-### Leadership & Strategy
+#### Leadership & Strategy
 - Chair of **Telia Analytics & AI Architecture Board**
 - Lead of **chief analytics architects across six countries**
-- Define Telia’s **AI, ML, DL, MLOps & GenAI strategy**
+- Define Telia's **AI, ML, DL, MLOps & GenAI strategy**
 
-### Architectural Development
+#### Architectural Development
 - Govern Telia’s **big data & AI target architecture**
 - Lead **technology validation and PoCs**
 - Drive modular, evolutionary AI platforms
 
-### Stakeholder Communication & Governance
+#### Stakeholder Communication & Governance
 - Own architecture roadmaps and adoption
 - Integrate business strategy with AI platform evolution
 
-### Implementation Support
+#### Implementation Support
 - Direct advisory support to:
   - AI engineers  
   - Platform teams  
@@ -183,7 +183,7 @@ Key contributions:
 
 ---
 
-## Key Achievements at Telia
+### Key Achievements at Telia
 
 - Founded **Telia’s Analytics & AI Architecture Board**
 - Led transition to **hybrid multi-cloud analytics**
@@ -193,7 +193,7 @@ Key contributions:
 
 ---
 
-## Business & Technology Impact
+### Business & Technology Impact
 
 - Hybrid multi-cloud analytics foundation
 - Production-grade MLOps across all environments
@@ -204,7 +204,7 @@ Key contributions:
 
 ---
 
-## Closing Perspective
+### Closing Perspective
 
 What began in the 1990s as **parallel quantum simulation on supercomputers** now continues as **enterprise-scale GenAI and agentic AI across sovereign hybrid infrastructures**.
 
