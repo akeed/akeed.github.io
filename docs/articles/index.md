@@ -31,7 +31,7 @@
 
     *Lessons learned from analytics projects and the importance of talking to the right people*
 
-- [From my academic work](Academic-work/index.md)
+- [My Career Journey](Career-journey/index.md)
 
     *Earlier, up to mid 2015, career journey and academic achievements*
 

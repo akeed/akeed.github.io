@@ -1,4 +1,4 @@
-# From my academic work
+# My Career Journey
 
 ## [From Quantum Simulation to Data-Intensive Science](../Academic-life/index.md)
 
