@@ -6,26 +6,6 @@ My professional career spans more than three decades and follows the fundamental
 
 ---
 
-## Table of Contents
-
-- [Foundations in Numerical Analysis and Quantum Physics](#foundations-in-numerical-analysis-and-quantum-physics)
-- [Transition to Industrial Systems and Global IT Architectures](#transition-to-industrial-systems-and-global-it-architectures)
-- [Building Europe's Grid Infrastructure](#building-europes-grid-infrastructure)
-- [From Grid to Cloud: BalticGrid, Nordic Cloud, and SNIC](#from-grid-to-cloud-balticgrid-nordic-cloud-and-snic)
-- [Entrepreneurship, Innovation, and Startup Ecosystems](#entrepreneurship-innovation-and-startup-ecosystems)
-- [The Shift to Data-Intensive Computing](#the-shift-to-data-intensive-computing)
-- [Teaching, Leadership, and Community Building](#teaching-leadership-and-community-building)
-- [A Continuous Evolution of Scalable Computing](#a-continuous-evolution-of-scalable-computing)
-- [From Data-Intensive Science to Enterprise AI Leadership at Telia](#from-data-intensive-science-to-enterprise-ai-leadership-at-telia)
-  - [Building Telia Analytics (2015–2018)](#building-telia-analytics-20152018)
-  - [Enterprise Architecture Leadership for AI & Analytics (2019–Present)](#enterprise-architecture-leadership-for-ai--analytics-2019present)
-  - [Key Achievements at Telia](#key-achievements-at-telia)
-  - [Business & Technical Impact](#business--technical-impact)
-  - [Closing Perspective](#closing-perspective)
-- [References & Selected Writings](#references--selected-writings)
-
----
-
 ## Foundations in Numerical Analysis and Quantum Physics
 
 I began my academic path in Engineering Physics at Uppsala University, with an early specialization in **numerical methods and scientific computing**. My master’s work focused on transport-corrected numerical models for nuclear reactor simulations at ABB Atom. This quickly evolved into advanced research in **time-dependent quantum dynamics**, where I pursued graduate studies both in Sweden and the United States.

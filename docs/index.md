@@ -1,4 +1,4 @@
-# Welcome to Akeed's Articles
+# Welcome to akeed's Articles
 
 Welcome to my collection of technical articles and insights. Here you'll find articles on various topics in software development, technology, and more.
 
