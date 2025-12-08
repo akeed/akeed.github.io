@@ -1,6 +1,6 @@
 # My Career Journey
 
-## [From Quantum Simulation to Data-Intensive Science](../Academic-life/index.md)
+## [From Quantum Simulation to Data-Intensive Science](../Work-life-so-far/index.md)
 
 *A career across three computing paradigms: HPC, grid computing, and cloud*
 
