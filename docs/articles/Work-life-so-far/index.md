@@ -134,7 +134,7 @@ In hindsight, my academic career forms a continuous arc:
 
 ## From Data-Intensive Science to Enterprise AI Leadership at Telia
 
-In 2015, I transitioned into Telia Company to help build industrial-scale analytics and AI capabilities.
+In 2015, I transitioned into Telia Company to help build industrial-scale analytics and AI capabilities across the Nordic and Baltic region. This move was a natural continuation of my work in data-intensive computing, cloud infrastructure, and distributed systems—now applied inside a large, data-rich, commercial environment.
 
 ---
 
@@ -144,13 +144,22 @@ In 2015, I transitioned into Telia Company to help build industrial-scale analyt
 **TV & Media Analytics Lead (2015.12 – 2017.11)**  
 **Deep Learning Coordination (2017.11 – 2018.11)**  
 
-Key contributions:
+During this period, I was part of the core team that created what became **Telia Analytics**. I moved between roles as architect, data scientist, and technical leader, helping define both the **technical foundations** and the **ways of working** for modern analytics at Telia.
 
-- Core member of founding **Telia Analytics**
-- Lead Architect for **Common Data Lake (CDL)**
-- Built a **Spark-based TV & Media analytics platform**
-- Coordinated **company-wide deep learning**
-- Led Telia’s first **enterprise DL training program**
+**Key contributions:**
+
+- Core member of the founding **Telia Analytics** initiative  
+- Initially brought in as **Lead Architect for Data & Analytics**, designing architecture and roadmaps for the **Common Data Lake (CDL)**  
+- Built a **Spark-based TV & Media analytics platform** on top of the CDL to aggregate and analyze usage, content, and service data for business insights  
+- Worked closely with **business owners** across TV & Media and other units to identify high-value use cases and demonstrate what large-scale analytics could deliver  
+- Coordinated **company-wide Deep Learning (DL)** initiatives within Data & Analytics:
+  - Identified DL business cases, ran proofs-of-concept, and took successful ones into production  
+  - Led a **company-wide DL course** to upskill data scientists in modern deep learning techniques  
+  - Facilitated knowledge-sharing communities for DL best practices  
+- Helped colleagues—especially data scientists—transition from traditional analytics to **big data analytics and scalable ML**, both technically and conceptually  
+- Led work on **streaming analytics** within Insights & Analytics, exploring how real-time and near-real-time data could support operations and customer-facing use cases  
+
+This period established Telia’s analytics foundation: **a shared data lake, a modern compute stack, and a growing community of data scientists and engineers working on large-scale use cases.**
 
 ---
 
@@ -160,47 +169,81 @@ Key contributions:
 **Head of Analytics IT Architecture (2022.05 – 2024.11)**  
 **Lead Architect AI (2024.12 – Present)**  
 
+From 2019 onwards, my role shifted from building solutions directly to **owning and governing the overall analytics and AI architecture** for Telia Group. I now lead a network of **chief analytics architects across six countries (SE, FI, NO, DK, LT, EE)** and am responsible for the **target architecture** and **strategic direction** of our analytics and AI capabilities.
+
 #### Leadership & Strategy
-- Chair of **Telia Analytics & AI Architecture Board**
-- Lead of **chief analytics architects across six countries**
-- Define Telia's **AI, ML, DL, MLOps & GenAI strategy**
+
+- Chair of the **Telia Analytics & AI Architecture Board**, covering AI, ML, DL, MLOps, and GenAI  
+- Lead of **chief analytics architects** across Telia’s footprint, ensuring cross-country alignment while respecting local needs  
+- Define the **enterprise strategy and guardrails** for:
+  - Big data and analytics platforms  
+  - Machine learning and deep learning  
+  - MLOps practices and tooling  
+  - GenAI and emerging agentic AI patterns  
+- Work closely with senior business stakeholders and IT leadership to ensure analytics and AI architecture supports Telia’s overall strategy and transformation agenda  
 
 #### Architectural Development
-- Govern Telia’s **big data & AI target architecture**
-- Lead **technology validation and PoCs**
-- Drive modular, evolutionary AI platforms
+
+- Develop, govern, and evolve Telia’s **target architecture** for:
+  - On-premises analytics platforms  
+  - Hybrid and multi-cloud environments (AWS, Google Cloud, and selected use of Azure)  
+  - AI and ML workloads, including GenAI  
+- Lead key **technical proof-of-concepts** and architectural evaluations to integrate new technologies and patterns safely and effectively  
+- Drive the move from monolithic or tightly-coupled platforms to **modular, evolutionary architectures** that can adapt over time  
+- Ensure that our platforms are:
+  - Scalable and performant  
+  - Secure and compliant  
+  - Suitable both for classical analytics and modern AI/GenAI workloads  
 
 #### Stakeholder Communication & Governance
-- Own architecture roadmaps and adoption
-- Integrate business strategy with AI platform evolution
+
+- Own and communicate **architecture frameworks, blueprints, and roadmaps** for analytics and AI across the group  
+- Ensure **cohesion and strategic alignment** between central platforms, country initiatives, and business domains  
+- Promote best practices for:
+  - Data and model lifecycle management  
+  - Responsible AI and operational robustness  
+  - Platform and capability reuse across countries  
 
 #### Implementation Support
-- Direct advisory support to:
-  - AI engineers  
-  - Platform teams  
-  - Data scientists  
-  - Business units  
+
+- Provide ongoing **hands-on guidance** to:
+  - Platform and data engineering teams  
+  - AI and ML engineers  
+  - Data scientists and analytics teams  
+  - Country and domain architects  
+- Act as a **trusted advisor** when architecting or scaling critical AI and analytics solutions  
+- Help teams adopt new capabilities (e.g., MLOps, GenAI, streaming analytics) in a way that is aligned with target architecture and long-term maintainability  
 
 ---
 
 ### Key Achievements at Telia
 
-- Founded **Telia’s Analytics & AI Architecture Board**
-- Led transition to **hybrid multi-cloud analytics**
-- Modernized **Hadoop → modular in-house analytics stack**
-- Established **MLOps across cloud & on-prem**
-- Leading **GenAI & Agentic AI architecture across Telia**
+- **Established and chair** Telia’s **Architecture Board for Analytics & AI (AI–ML–DL–GenAI)**, driving cross-country alignment and innovation  
+- **Led the transformation** from a purely on-prem analytics setup to a **hybrid multi-cloud environment**, improving scalability, flexibility, and resilience  
+- **Spearheaded the modernization** of on-premise solutions from a legacy **Hadoop-based system** to a **modular, in-house developed analytics stack**, designed for evolution rather than one-off migrations  
+- **Introduced and implemented MLOps** practices both in the cloud (AWS, Google Cloud) and on-prem, significantly improving the reliability and speed of ML deployment and operations  
+- **Directed large-scale upskilling efforts** around:
+  - Cloud technologies  
+  - Big data platforms  
+  - MLOps and ML engineering  
+  - Early GenAI experimentation and adoption  
+- **Currently leading the architecture for GenAI and emerging agentic AI** across Telia, including:
+  - Secure use of LLMs  
+  - RAG and knowledge-centric architectures  
+  - Integration of GenAI into existing analytics and customer-facing platforms  
 
 ---
 
 ### Business & Technology Impact
 
-- Hybrid multi-cloud analytics foundation
-- Production-grade MLOps across all environments
-- Cross-country **GenAI architecture standardization**
-- Enabled enterprise transition:
+- Built a **hybrid multi-cloud analytics foundation**, combining on-prem capabilities with AWS and Google Cloud to support diverse regulatory, latency, and cost needs  
+- Enabled **production-grade MLOps** across environments, reducing time-to-production and improving robustness for AI and ML workloads  
+- Standardized **GenAI architecture patterns** across countries, reducing fragmentation and enabling reuse of components and approaches  
+- Delivered a clear, staged evolution path:
 
-> BI → Big Data → ML → DL → GenAI → Agentic AI
+> **BI → Big Data → ML → DL → MLOps → GenAI → Agentic AI**
+
+- Helped move analytics and AI from being **isolated projects** to becoming **core, governed capabilities** in Telia’s technology and business landscape  
 
 ---
 
