@@ -204,7 +204,7 @@ Key contributions:
 
 ---
 
-### Closing Perspective
+## Closing Perspective
 
 What began in the 1990s as **parallel quantum simulation on supercomputers** now continues as **enterprise-scale GenAI and agentic AI across sovereign hybrid infrastructures**.
 
