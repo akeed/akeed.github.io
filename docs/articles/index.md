@@ -31,4 +31,10 @@
 
     *Lessons learned from analytics projects and the importance of talking to the right people*
 
+## From my academic period
+
+- [My Erdős number: 3](Erdos-Number/index.md)
+
+    *The collaborative distance chain connecting me to mathematician Paul Erdős*
+
 ---
