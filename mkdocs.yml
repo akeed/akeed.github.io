@@ -1,11 +1,11 @@
 site_name: Akeed's Articles
-site_url: https://akeed.github.io/articles/
+site_url: https://akeed.github.io/
 site_description: A collection of technical articles and insights
 site_author: Akeed
 
 # Repository
-repo_name: akeed/articles
-repo_url: https://github.com/akeed/articles
+repo_name: akeed/akeed.github.io
+repo_url: https://github.com/akeed/akeed.github.io
 
 # Theme configuration
 theme:
