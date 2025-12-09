@@ -1,18 +1,31 @@
-# Welcome to akeed's Articles
+# akeed | Knowledge Hub
 
-Welcome to my collection of technical articles and insights. Here you'll find articles on various topics in software development, technology, and more.
+**AI, Architecture, Systems & Lifelong Learning**
 
-## Latest Articles
+This is my personal knowledge system—a place for structured thinking, continuous learning, and capturing insights across technical depth and strategic breadth.
 
-Browse the latest articles in the [Articles section](articles/index.md).
+## What You'll Find Here
 
-## About me
+This hub spans:
 
-I'm Åke Edlund. I've spent many years moving between research, engineering, and architecture, always driven by curiosity and a desire to understand how things work. These articles are a way for me to capture and share what I learn.
+- **Enterprise AI & Analytics** – Platforms, strategy, and architecture
+- **Agentic AI & MCP** – Evaluation, design patterns, and emerging paradigms  
+- **Architecture & Systems** – Scalable computing, data infrastructure, technical leadership
+- **Labs & Experiments** – Hands-on exploration and prototyping
+- **Career Reflections** – Journey across HPC, deep learning, and enterprise AI
+- **Systems Thinking** – Long-term learning and knowledge evolution
 
-[More about me](articles/Career-journey/index.md)
+## Recent Writing
 
-My [Linkedin page](https://www.linkedin.com/in/aaked/)
+Explore technical articles and insights in the [Writing section](articles/index.md).
+
+## About
+
+I'm Åke Edlund. My work has moved across numerical analysis and high-performance computing, deep learning research, enterprise AI platforms, and architecture leadership at scale. What connects these phases is curiosity, systems thinking, and learning over time.
+
+This Knowledge Hub exists to capture, structure, and evolve that knowledge.
+
+[Career Journey](articles/Career-journey/index.md) · [LinkedIn](https://www.linkedin.com/in/aaked/)
 
 ---
 

@@ -1,7 +1,7 @@
-site_name: Akeed's Articles
+site_name: akeed | Knowledge Hub
 site_url: https://akeed.github.io/
-site_description: A collection of technical articles and insights
-site_author: Akeed
+site_description: AI, Architecture, Systems & Lifelong Learning
+site_author: Åke Edlund
 
 # Repository
 repo_name: akeed/akeed.github.io
@@ -60,8 +60,8 @@ markdown_extensions:
 
 # Navigation
 nav:
-  - Home: index.md
-  - Articles: articles/index.md
+  - Hub: index.md
+  - Writing: articles/index.md
 
 # Plugins
 plugins:
