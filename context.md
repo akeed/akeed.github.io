@@ -11,7 +11,7 @@ The site is evolving from being strictly an "articles blog" into a broader **per
 
 The scope of this Knowledge Hub includes:
 - Enterprise AI & Analytics
-- Agentic AI, MCP, and evaluation
+- Agentic AI, integration patterns, and evaluation
 - Architecture & platforms
 - Knowledge systems & crawlers
 - Labs & experiments

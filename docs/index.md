@@ -9,7 +9,7 @@ This is my personal knowledge system—a place for structured thinking, continuo
 This hub spans:
 
 - **Enterprise AI & Analytics** – Platforms, strategy, and architecture
-- **Agentic AI & MCP** – Evaluation, design patterns, and emerging paradigms  
+- **Agentic AI & Integration Patterns** – Evaluation, design patterns, and emerging paradigms  
 - **Architecture & Systems** – Scalable computing, data infrastructure, technical leadership
 - **Labs & Experiments** – Hands-on exploration and prototyping
 - **Career Reflections** – Journey across HPC, deep learning, and enterprise AI
