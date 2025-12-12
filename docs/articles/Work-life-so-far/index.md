@@ -1,298 +1,187 @@
-# From Quantum Simulation to Enterprise AI: A Career Across Three Computing Paradigms
+# Work life so far: from quantum simulation to enterprise AI
 
 **Åke Edlund, PhD**
 
-My professional career spans more than three decades and follows the fundamental evolution of large-scale computing itself: from early high-performance computing (HPC) and numerical simulation, through distributed and grid computing, to cloud computing, data-intensive science, and today enterprise-scale **AI, GenAI, and agentic systems**. Throughout this journey, my work has consistently focused on the intersection of **mathematical modelling, scalable computing architectures, and real-world scientific and industrial applications**.
+If there’s a single thread through my working life, it’s this: I’ve spent three decades helping ambitious ideas survive contact with reality — by turning hard computation into systems people can trust, operate, and scale.
+
+That journey has moved with the major shifts in computing itself. I started in the world of numerical simulation and high-performance computing, where performance and correctness are unforgiving. I then spent years inside large industrial systems, where reliability, security, and ownership matter more than elegant theory. From there I ended up at the heart of Europe’s grid and cloud efforts, building federated infrastructures across countries and institutions. And in the last decade, I’ve brought those lessons into enterprise analytics and AI — now including GenAI and agentic patterns—within a large telco operating across multiple countries and regulatory contexts.
+
+I don’t think of this as “three careers.” It’s one work life, shaped by the same questions in different environments:
+
+- How do we make the complex operational?
+- How do we scale without losing control?
+- How do we build systems that people can rely on—technically, economically, and organizationally?
 
 ---
 
-## Foundations in Numerical Analysis and Quantum Physics
+## Learning to respect reality: numerical methods and quantum physics
 
-I began my academic path in Engineering Physics at Uppsala University, with an early specialization in **numerical methods and scientific computing**. My master’s work focused on transport-corrected numerical models for nuclear reactor simulations at ABB Atom. This quickly evolved into advanced research in **time-dependent quantum dynamics**, where I pursued graduate studies both in Sweden and the United States.
+I began in Engineering Physics at Uppsala University and quickly gravitated toward numerical methods and scientific computing. Early on, I learned what it means to be accountable to physics: if the method is wrong, the result is wrong — no amount of storytelling fixes it.
 
-My Licentiate degree (1996) addressed **quantum time evolution in time-dependent fields using Krylov subspace methods**, and culminated in a PhD from Technion – Israel Institute of Technology (1999). My doctoral work focused on **parallel preconditioned Krylov methods for multidimensional quantum scattering**, targeting some of the most demanding computational problems in quantum chemistry and quantum physics. This work contributed new scalable solvers for large, high-dimensional, time-dependent partial differential equations.
+My master’s work explored transport-corrected numerical models for nuclear reactor simulations at ABB Atom. That opened the door to time-dependent quantum dynamics and the computational demands that come with it: large, stiff, high-dimensional problems that push both algorithms and machines.
 
-This early phase gave me a deep and lasting foundation in:
+My Licentiate (1996) focused on quantum time evolution in time-dependent fields using Krylov subspace methods. I completed my PhD at Technion (1999), working on parallel preconditioned Krylov methods for multidimensional quantum scattering—essentially building scalable solvers for problems that were too large, too expensive, and too important to treat casually.
 
-- Numerical linear algebra  
-- Parallel algorithms  
-- High-dimensional PDE solvers  
-- Distributed memory architectures  
-- Scientific performance optimization  
+What stayed with me from this period wasn’t just “HPC skills.” It was a mindset:
 
----
-
-## Transition to Industrial Systems and Global IT Architectures
-
-Following my PhD, I spent seven years in advanced industrial roles spanning **IT security, product management, startup environments, and large-scale telecom systems**. Notably, I worked in the core development of **MySQL Cluster (NDB)** at Ericsson, and later as **Chief Architect for five global IT systems at Sony Ericsson**. This period gave me hands-on experience in:
-
-- Mission-critical telecom databases  
-- Global data warehouses  
-- Enterprise security architectures  
-- Large-scale distributed IT operations  
-- Product management and system migration at global scale  
-
-This industry experience fundamentally shaped my later work in distributed research infrastructures by grounding it deeply in **real-world operational demands**.
+- correctness and performance are not negotiable  
+- modelling choices and numerical choices are inseparable  
+- scaling is as much about architecture as it is about algorithms  
 
 ---
 
-## Building Europe’s Grid Infrastructure
+## Trading elegance for responsibility: industrial systems and telecom
 
-In 2004, I returned to academia to take on the role of **Security Head for the EGEE project (Enabling Grids for eScience)** at KTH, Europe’s largest distributed research infrastructure at the time, led by CERN. EGEE supported the **Large Hadron Collider (LHC)** and involved over **70 organizations across 40+ countries**.
+After the PhD, I moved into industrial roles—seven years that taught me a different form of discipline. Here, the customer is not a paper reviewer. Systems have users, outages, budgets, and real consequences.
 
-My responsibilities covered:
+I worked on mission-critical telecom systems, including core development of MySQL Cluster (NDB) at Ericsson. Later, at Sony Ericsson, I served as Chief Architect for multiple global IT systems. These were environments where the definition of “done” includes operability, security, migration paths, and long-term ownership.
 
-- Leading security architecture and operations  
-- Establishing the **Middleware Security Group (MWSG)** together with Stanford  
-- Coordinating distributed security development across federated infrastructures  
-- Serving as permanent member of EGEE’s executive management  
+This period deeply shaped how I think about architecture:
 
-This work placed me at the very core of **pan-European distributed computing governance and operations**, helping transition grid computing from experimental infrastructure into a production scientific backbone.
-
----
-
-## From Grid to Cloud: BalticGrid, Nordic Cloud, and SNIC
-
-Building on EGEE, I became coordinator of **BalticGrid and BalticGrid-II**, extending European grid and cloud infrastructure into the Baltic region. Under my leadership, the project expanded to **6 countries, 13 partners, and 70 FTE**, and achieved strong EU recognition.
-
-During this phase, I also initiated:
-
-- **BalticCloud** – among the earliest European cloud initiatives  
-- The **BalticGrid Innovation Lab (BGi)** – connecting early-stage startups to scalable computing  
-- Early adoption of **public cloud computing (AWS, OpenNebula, Eucalyptus)** in research environments  
-
-From 2009 onward, I led or co-initiated major national and Nordic cloud programs:
-
-- **SNIC Cloud (Sweden)**  
-- **Nordic Cloud (NeIC)**  
-- **NEON (Northern Europe Cloud)**  
-- Swedish participation in the **EGI Federated Cloud**
-
-These efforts established production-grade national cloud infrastructure for research in Sweden and across the Nordics.
-
-In recognition of this early and sustained engagement in cloud computing, I was appointed to the **EU Cloud Expert Group in 2010**, where I co-authored key strategic documents shaping European cloud policy and Horizon 2020 investments.
+- “distributed” isn’t a buzzword — it’s a failure mode factory  
+- security is a property of the whole system, not a component  
+- governance, interfaces, and operational practice are part of the design  
 
 ---
 
-## Entrepreneurship, Innovation, and Startup Ecosystems
+## Federated computing at continental scale: building Europe’s grid backbone
 
-Parallel to my infrastructure work, I became deeply engaged in **technology entrepreneurship**:
+In 2004, I returned to academia—but not to retreat from reality. I joined KTH and became Security Head for EGEE (Enabling Grids for eScience), at the time Europe’s largest distributed research infrastructure, led by CERN and supporting workloads around the Large Hadron Collider.
 
-- Startup coaching at **Aalto Venture Garage and Startup Sauna**
-- Co-founder and managing partner in the **SICS Startup Accelerator**
-- Advisor to **Severalnines** (database automation)
-- Co-founder of **Numeri Ltd** (scalable video compression)
+This was a formative chapter: multi-institution, multi-country, federated trust, heterogeneous operations. The technical challenges were real, but the governance challenges were just as decisive.
 
-This entrepreneurial engagement strengthened my long-term focus on **translating research infrastructure into real economic value**.
+My work included leading security architecture and operations, establishing the Middleware Security Group together with Stanford, coordinating security development across federated infrastructures, and participating in executive management. In practice, it meant helping turn grid computing from an ambitious idea into something that could be run as a production scientific backbone.
 
----
+What I took from EGEE was a clear lesson that keeps repeating in enterprise AI today:
 
-## The Shift to Data-Intensive Computing
-
-In 2012, I founded the **Data-Intensive Computing Group at KTH** within the newly formed HPCViz department. This represented a strategic shift from compute-centric to **data-centric computing**. Drawing from my HPC background and cloud infrastructure work, I focused on:
-
-- Iterative large-scale data analytics  
-- In-memory distributed computing  
-- Advanced analytics stacks beyond classical MapReduce  
-- Spark-based scalable machine learning and bioinformatics  
-
-My group became an early adopter of **Apache Spark**, inspired by direct interaction with the Berkeley AMPLab, Microsoft Cloud Futures, and the early Spark development team. This enabled us to run **iterative statistical and machine-learning workloads with orders-of-magnitude performance gains** over traditional Hadoop approaches.
-
-Our applied research focused on:
-
-- Bioinformatics and life science analytics  
-- Distributed virtual screening  
-- Large-scale anomaly detection  
-- Streaming data analytics  
-- Security and intrusion detection  
+> Federation is not a technical pattern. It’s a social contract, enforced by architecture and operations.
 
 ---
 
-## Teaching, Leadership, and Community Building
+## From grid to cloud: turning federation into a platform era
 
-Across my academic career, I have consistently contributed to:
+Building on EGEE, I coordinated BalticGrid and BalticGrid-II, extending infrastructure and capability into the Baltic region. Along the way I helped initiate early cloud efforts such as BalticCloud, and created the BalticGrid Innovation Lab to connect startups and emerging needs to scalable infrastructure.
 
-- Undergraduate and graduate teaching  
-- International summer schools in grid and cloud computing  
-- National cloud training programs  
-- Dozens of invited talks across Europe, Asia, and North America  
+From 2009 onward I led or co-initiated major Nordic and Swedish cloud efforts (including SNIC Cloud, Nordic Cloud / NeIC, and related initiatives), and participated in shaping broader European direction. In 2010, I was appointed to the EU Cloud Expert Group, contributing to strategic work that influenced European cloud priorities and later Horizon 2020 investments.
 
-I have served on program committees, expert boards, and advisory groups across cloud, grid, and data science communities. I have also supervised and co-supervised PhD students within distributed systems, cloud infrastructure, and data-intensive computing.
+This period sits at an interesting hinge in my work life: the moment when “distributed computing for science” began to look like “platform thinking.” It also reinforced a pragmatic truth:
 
----
-
-## A Continuous Evolution of Scalable Computing
-
-In hindsight, my academic career forms a continuous arc:
-
-- **1990s**: Numerical analysis, quantum simulation, HPC  
-- **2000s**: Distributed systems, global IT, grid computing  
-- **2010-2014**: Cloud infrastructure, federated systems, entrepreneurship  
-- **2012 onward**: Data-intensive computing, streaming analytics, large-scale machine learning  
+- infrastructure only matters if people can adopt it  
+- adoption requires usability, training, and clear responsibility boundaries  
 
 ---
 
-## From Data-Intensive Science to Enterprise AI Leadership at Telia
+## Entrepreneurship as a parallel track: making ideas survive outside the lab
 
-In 2015, I transitioned into Telia Company to help build industrial-scale analytics and AI capabilities across the Nordic and Baltic region. This move was a natural continuation of my work in data-intensive computing, cloud infrastructure, and distributed systems—now applied inside a large, data-rich, commercial environment.
+Alongside infrastructure work, I stayed close to entrepreneurship and innovation ecosystems — startup coaching, accelerator work, advisory roles, and a few ventures of my own. I’ve always been interested in what happens when technical possibility meets market reality.
 
----
-
-### Building Telia Analytics (2015–2018)
-
-**Data Scientist, Telia Company (2015.08 – 2018.11)**  
-**TV & Media Analytics Lead (2015.12 – 2017.11)**  
-**Deep Learning Coordination (2017.11 – 2018.11)**  
-
-During this period, I was part of the core team that created what became **Telia Analytics**. I moved between roles as architect, data scientist, and technical leader, helping define both the **technical foundations** and the **ways of working** for modern analytics at Telia.
-
-**Key contributions:**
-
-- Core member of the founding **Telia Analytics** initiative  
-- Initially brought in as **Lead Architect for Data & Analytics**, designing architecture and roadmaps for the **Common Data Lake (CDL)**  
-- Built a **Spark-based TV & Media analytics platform** on top of the CDL to aggregate and analyze usage, content, and service data for business insights  
-- Worked closely with **business owners** across TV & Media and other units to identify high-value use cases and demonstrate what large-scale analytics could deliver  
-- Coordinated **company-wide Deep Learning (DL)** initiatives within Data & Analytics:
-  - Identified DL business cases, ran proofs-of-concept, and took successful ones into production  
-  - Led a **company-wide DL course** to upskill data scientists in modern deep learning techniques  
-  - Facilitated knowledge-sharing communities for DL best practices  
-- Helped colleagues—especially data scientists—transition from traditional analytics to **big data analytics and scalable ML**, both technically and conceptually  
-- Led work on **streaming analytics** within Insights & Analytics, exploring how real-time and near-real-time data could support operations and customer-facing use cases  
-
-This period established Telia’s analytics foundation: **a shared data lake, a modern compute stack, and a growing community of data scientists and engineers working on large-scale use cases.**
+Those experiences trained another useful instinct: to think in terms of product, not just project. That doesn’t mean “sales pitch.” It means clarity about who benefits, how value is created, and what must be true operationally for a solution to be sustainable.
 
 ---
 
-### Enterprise Architecture Leadership for AI & Analytics (2019–Present)
+## Discovering the fourth paradigm: data-intensive computing
 
-**Chief Domain Architect, Analytics & AI (2019.01 – Present)**  
-**Head of Analytics IT Architecture (2022.05 – 2024.11)**  
-**Lead Architect AI (2024.12 – Present)**  
+Around 2012, I founded the Data-Intensive Computing Group at KTH (within the HPCViz environment). The motivation was simple: we were moving from compute-centric workloads to data-centric ones, and the toolchains and architectural assumptions needed to change.
 
-From 2019 onwards, my role shifted from building solutions directly to **owning and governing the overall analytics and AI architecture** for Telia Group. I now lead a network of **chief analytics architects across six countries (SE, FI, NO, DK, LT, EE)** and am responsible for the **target architecture** and **strategic direction** of our analytics and AI capabilities.
+We became early adopters of Apache Spark, shaped by direct contact with the Berkeley AMPLab, Microsoft Cloud Futures, and the early Spark community. The practical win was the ability to run iterative analytics and machine learning workloads far more efficiently than the MapReduce-era stacks.
 
-#### Leadership & Strategy
+The applied work touched areas like bioinformatics, anomaly detection, streaming analytics, and security/intrusion detection—domains where the combination of data volume, iteration, and time-to-insight changes the entire architecture.
 
-- Chair of the **Telia Analytics & AI Architecture Board**, covering AI, ML, DL, MLOps, and GenAI  
-- Lead of **chief analytics architects** across Telia’s footprint, ensuring cross-country alignment while respecting local needs  
-- Define the **enterprise strategy and guardrails** for:
-  - Big data and analytics platforms  
-  - Machine learning and deep learning  
-  - MLOps practices and tooling  
-  - GenAI and emerging agentic AI patterns  
-- Work closely with senior business stakeholders and IT leadership to ensure analytics and AI architecture supports Telia’s overall strategy and transformation agenda  
+This chapter also reinforced something I still lean on:
 
-#### Architectural Development
-
-- Develop, govern, and evolve Telia’s **target architecture** for:
-  - On-premises analytics platforms  
-  - Hybrid and multi-cloud environments (AWS, Google Cloud, and selected use of Azure)  
-  - AI and ML workloads, including GenAI  
-- Lead key **technical proof-of-concepts** and architectural evaluations to integrate new technologies and patterns safely and effectively  
-- Drive the move from monolithic or tightly-coupled platforms to **modular, evolutionary architectures** that can adapt over time  
-- Ensure that our platforms are:
-  - Scalable and performant  
-  - Secure and compliant  
-  - Suitable both for classical analytics and modern AI/GenAI workloads  
-
-#### Stakeholder Communication & Governance
-
-- Own and communicate **architecture frameworks, blueprints, and roadmaps** for analytics and AI across the group  
-- Ensure **cohesion and strategic alignment** between central platforms, country initiatives, and business domains  
-- Promote best practices for:
-  - Data and model lifecycle management  
-  - Responsible AI and operational robustness  
-  - Platform and capability reuse across countries  
-
-#### Implementation Support
-
-- Provide ongoing **hands-on guidance** to:
-  - Platform and data engineering teams  
-  - AI and ML engineers  
-  - Data scientists and analytics teams  
-  - Country and domain architects  
-- Act as a **trusted advisor** when architecting or scaling critical AI and analytics solutions  
-- Help teams adopt new capabilities (e.g., MLOps, GenAI, streaming analytics) in a way that is aligned with target architecture and long-term maintainability  
+- performance isn’t only about speed; it’s about feedback loops  
+- the best architecture enables learning at scale  
 
 ---
 
-### Key Achievements at Telia
+## Moving into Telia: bringing platform thinking to enterprise analytics and AI
 
-- **Established and chair** Telia’s **Architecture Board for Analytics & AI (AI–ML–DL–GenAI)**, driving cross-country alignment and innovation  
-- **Led the transformation** from a purely on-prem analytics setup to a **hybrid multi-cloud environment**, improving scalability, flexibility, and resilience  
-- **Spearheaded the modernization** of on-premise solutions from a legacy **Hadoop-based system** to a **modular, in-house developed analytics stack**, designed for evolution rather than one-off migrations  
-- **Introduced and implemented MLOps** practices both in the cloud (AWS, Google Cloud) and on-prem, significantly improving the reliability and speed of ML deployment and operations  
-- **Directed large-scale upskilling efforts** around:
-  - Cloud technologies  
-  - Big data platforms  
-  - MLOps and ML engineering  
-  - Early GenAI experimentation and adoption  
-- **Currently leading the architecture for GenAI and emerging agentic AI** across Telia, including:
-  - Secure use of LLMs  
-  - RAG and knowledge-centric architectures  
-  - Integration of GenAI into existing analytics and customer-facing platforms  
+In 2015, I joined Telia Company. The move felt natural: a large, data-rich organization facing exactly the kinds of scale, governance, and reliability questions I’d seen in scientific infrastructures—now with commercial and regulatory constraints layered on top.
+
+What changed wasn’t the nature of the challenge. It was the setting.
 
 ---
 
-### Business & Technology Impact
+### Building foundations: Telia Analytics
 
-- Built a **hybrid multi-cloud analytics foundation**, combining on-prem capabilities with AWS and Google Cloud to support diverse regulatory, latency, and cost needs  
-- Enabled **production-grade MLOps** across environments, reducing time-to-production and improving robustness for AI and ML workloads  
-- Standardized **GenAI architecture patterns** across countries, reducing fragmentation and enabling reuse of components and approaches  
-- Delivered a clear, staged evolution path:
+In the early years, I worked as a mix of architect, data scientist, and technical lead while Telia Analytics took shape. The work was hands-on and foundational: shaping the architecture and ways of working, helping establish a shared data lake direction, and building platforms and use cases that proved the model could work.
 
-> **BI → Big Data → ML → DL → MLOps → GenAI → Agentic AI**
-
-- Helped move analytics and AI from being **isolated projects** to becoming **core, governed capabilities** in Telia’s technology and business landscape  
+A memorable part of this period was bridging communities: helping data scientists and engineers move from “traditional analytics” toward large-scale data processing and modern ML. Another was coordinating deep learning efforts—partly technical, partly educational—because capability only becomes real when enough people can use it responsibly.
 
 ---
 
-## Closing Perspective
+### From building to steering: enterprise architecture for AI & Analytics
 
-What began in the 1990s as **parallel quantum simulation on supercomputers** now continues as **enterprise-scale GenAI and agentic AI across sovereign hybrid infrastructures**.
+From 2019 onward, my role shifted toward defining and governing the overall analytics and AI architecture for Telia Group, spanning multiple countries and platforms. I lead a network of chief analytics architects and chair an architecture board covering AI, ML, deep learning, MLOps, GenAI, and now emerging agentic patterns.
 
-The consistent through-line has always been:
+The core of this work is not picking tools. It’s setting direction and guardrails:
 
-> **Turning advanced computation into real, scalable, trusted systems for science, industry, and society.**
+- how we evolve platforms without breaking delivery  
+- how we enable autonomy while maintaining cohesion  
+- how we keep security, compliance, and operability built-in  
+- how we move from pilots to sustainable capabilities  
+
+Over time, the technical arc has been a staged evolution—BI to big data, to ML and deep learning, to MLOps, to GenAI—and now into agentic architectures. Each step adds power, and each step increases the need for strong interfaces, governance, and observability.
 
 ---
 
+## What I’m focused on now: GenAI, agentic patterns, and sovereign hybrid reality
 
+Today, the most interesting problems I work on sit at the boundary between “what’s possible” and “what’s permissible”:
 
-## References & Selected Writings
+- GenAI and LLM usage under real enterprise constraints  
+- RAG and knowledge-centric architecture that can be governed  
+- agentic patterns that remain secure, observable, and maintainable  
+- hybrid and sovereign infrastructure where “just use the cloud” is not the answer  
 
-### Data-Intensive Computing
+In a way, it feels like coming full circle: high ambition, high complexity, and the need to make systems dependable at scale—except now the systems must also be explainable, auditable, and safe to operate.
 
-1. A. Gholami, A.-S. Lind, J. Reichel, J.-E. Litton, Å. Edlund, E. Laure,
+---
+
+## Closing perspective
+
+My work life started with parallel quantum simulations, where every mistake shows up in the math. It continues today in enterprise AI, where mistakes show up in operations, compliance, and trust.
+
+The through-line has stayed stable:
+
+> Build systems that scale, stay understandable, and earn trust over time.
+
+---
+
+## References and selected writings
+
+I’ve kept this section as pointers rather than a full publication list. If you want a complete academic bibliography and community participation list, I maintain that separately.
+
+### Data-intensive computing
+
+1. A. Gholami, A.-S. Lind, J. Reichel, J.-E. Litton, Å. Edlund, E. Laure,  
    *Platform-as-a-Service (PaaS) Privacy Threat Modeling for Emerging Biobank Clouds*, submitted to DBSEC 2014, 2014.
 
-2. Å. Edlund,
-   *Data-Intensive Computing and the Future of Research*, in *Time to Think: Policy and Measurement in Internationalization and Competitiveness*, Springer, 2014. Editor: Eskil Ullberg, George Mason University.
+2. Å. Edlund,  
+   *Data-Intensive Computing and the Future of Research*, in *Time to Think: Policy and Measurement in Internationalization and Competitiveness*, Springer, 2014.
 
-3. L. Ahmed, Å. Edlund, E. Laure, O. Spjuth,
-   *Using Iterative MapReduce for Parallel Virtual Screening*, CloudCom 2013, December 5, 2013.
+3. L. Ahmed, Å. Edlund, E. Laure, O. Spjuth,  
+   *Using Iterative MapReduce for Parallel Virtual Screening*, CloudCom 2013, 2013.
 
----
+### Cloud computing and federated infrastructure
 
-### Cloud Computing
+4. A. Gholami, Å. Edlund, E. Laure,  
+   *Cloud Privacy Threat Modeling*, IFIP Summer School on Privacy and Identity Management, 2013.
 
-4. A. Gholami, Å. Edlund, E. Laure,
+5. L. Schubert, K. Jeffery, B. Neidecker-Lutz (eds.),  
+   *A Roadmap for Advanced Cloud Technologies under H2020*, EU Cloud Expert Group Report, 2012. (Co-author: Å. Edlund)
+
+6. Å. Edlund,  
+   *Cloud Computing – Challenges and Opportunities for Swedish Entrepreneurs*, Swedish Entrepreneurship Forum, 2012. Book.
+
+7. Å. Edlund et al.,  
+   *Practical Cloud Evaluation from a Nordic eScience User Perspective*, VTDC’11, 2011.
+
+8. E. Laure, Å. Edlund,  
+   *The eInfrastructure Ecosystem: Providing Local Support to Global Science*, Wiley, 2011.
+
+9. A. Gholami, Å. Edlund, E. Laure,
    *Cloud Privacy Threat Modeling*, 8th IFIP International Summer School on Privacy and Identity Management, Nijmegen, Netherlands, 2013.
-
-5. L. Schubert, K. Jeffery, B. Neidecker-Lutz (eds.),
-   *A Roadmap for Advanced Cloud Technologies under H2020*, EU Cloud Expert Group Report, December 21, 2012. (Co-author: Å. Edlund)
-
-6. Å. Edlund,
-   *Cloud Computing – Challenges and Opportunities for Swedish Entrepreneurs*, Swedish Entrepreneurship Forum, Publication No. 5, 2012 (52 pages).
-
-7. L. Schubert, K. Jeffery (eds.),
-   *Advances in Clouds*, EU Cloud Expert Group Report, 2012. (Contributor: Å. Edlund)
-
-8. Å. Edlund, M. Koopman, Z. A. Shah, I. Livenson, F. Orellana, J. Kommeri, M. Tuisku, P. Lehtovuori, K. M. Hansen, H. Neukirchen, E. Þ. Hvannberg,
-   *Practical Cloud Evaluation from a Nordic eScience User Perspective*, VTDC’11, ACM Conference, San Jose, 2011.
-
-9. E. Laure, Å. Edlund,
-   *The eInfrastructure Ecosystem: Providing Local Support to Global Science*, in *Large-Scale Computing Techniques for Complex System Simulations*, Wiley Series on Parallel and Distributed Computing, 2011.
 
 10. Å. Edlund, I. Livenson,
     *Cloud Computing and Startups*, in *Cloud Computing: Methodology, Systems, and Applications*, CRC Press, 2011.
@@ -306,133 +195,49 @@ The consistent through-line has always been:
 13. Contribution to:
     *SIENA Roadmap on Distributed Computing Infrastructure for e-Science and Beyond in Europe*, released February 23, 2012.
 
----
+### Scientific computing and quantum physics
 
-### Grid Computing
-
-14. E. Laure et al.,
-    *Programming the Grid using gLite*, Computational Methods in Science and Technology, 2006. (Co-author: Å. Edlund)
-
-15. E. Laure et al.,
-    *Middleware for the Next Generation Grid Infrastructure*, Computing in High Energy and Nuclear Physics Conference, 2004. (Co-author: Å. Edlund)
-
----
-
-### Scientific Computing & Quantum Physics
-
-16. U. Peskin, Å. Edlund, I. Bar-On,
+14. U. Peskin, Å. Edlund, I. Bar-On,
     *Parallel Wave-Packet Simulations of Electron Transmission Through Water*, Journal of Chemical Physics, 112, 3220–3226 (2000).
 
-17. I. Bar-On, Å. Edlund, U. Peskin,
+15. I. Bar-On, Å. Edlund, U. Peskin,
     *Parallel Solution of the Multidimensional Helmholtz/Schrödinger Equation Using High-Order Methods*, Applied Numerical Mathematics, 33, 95–104 (2000).
 
-18. U. Peskin, Å. Edlund, I. Bar-On, M. Galperin, A. Nitzan,
+16. U. Peskin, Å. Edlund, I. Bar-On, M. Galperin, A. Nitzan,
     *Transient Resonance Structures in Electron Tunneling Through Water*, Journal of Chemical Physics, 111, 7558–7566 (1999).
 
-19. Å. Edlund,
+17. Å. Edlund,
     *Multidimensional Quantum Scattering Calculations by a Parallel Preconditioned Krylov Subspace Method*, PhD Thesis, Technion – Israel Institute of Technology, 1999.
 
-20. Å. Edlund, U. Peskin,
+18. Å. Edlund, U. Peskin,
     *A Parallel Green’s Operator for Multidimensional Quantum Scattering Calculations*, International Journal of Quantum Chemistry, 69, 167–173 (1998).
 
-21. Å. Edlund, I. Bar-On, U. Peskin,
+19. Å. Edlund, I. Bar-On, U. Peskin,
     *Parallel Computation of Multidimensional Scattering Wavefunctions for Helmholtz/Schrödinger Equations*, PARA98 – Applied Parallel Computing Conference, 1998.
 
-22. Å. Edlund, I. Vorobeichik, U. Peskin,
+20. Å. Edlund, I. Vorobeichik, U. Peskin,
     *High-Order Perturbation Theory for Helmholtz/Schrödinger Equations via a Separable Preconditioner*, Journal of Computational Physics, 138, 788–800 (1997).
 
-23. U. Peskin, Å. Edlund, W. H. Miller,
+21. U. Peskin, Å. Edlund, W. H. Miller,
     *Quantum Time Evolution in Time-Dependent Fields and Time-Independent Reactive-Scattering Calculations via an Efficient Fourier Grid Preconditioner*, Journal of Chemical Physics, 103(23), 1995.
 
----
+### Popular science and media (selected)
 
-### Popular Science & Media
+22. Ny Teknik (Dec 19, 2012),
+    *"Molnet ger Sverige nya jobb"*, with Per Adolfsson (Microsoft Sweden).
 
-24. Ny Teknik (Dec 19, 2012),
-    *“Molnet ger Sverige nya jobb”*, with Per Adolfsson (Microsoft Sweden).
+23. Sveriges Radio P1 – Vetandets Värld (Nov 2011),
+    *"Datahallarna växer i takt med sociala medierna"*, interview.
 
-25. Sveriges Radio P1 – Vetandets Värld (Nov 2011),
-    *“Datahallarna växer i takt med sociala medierna”*, interview.
+24. Naturvetarna (May 2011),
+    *"Datormoln med kraft att förändra IT-världen"*, interview.
 
-26. Naturvetarna (May 2011),
-    *“Datormoln med kraft att förändra IT-världen”*, interview.
+25. SVT Web (Jan 2011),
+    *"Inte förvånad att datorn vann"*, interview on IBM Watson.
 
-27. SVT Web (Jan 2011),
-    *“Inte förvånad att datorn vann”*, interview on IBM Watson.
+26. KTH Press (Feb 2011),
+    *"Vetenskapsmoln hjälper företag med hemläxan"*, interview.
 
-28. KTH Press (Feb 2011),
-    *“Vetenskapsmoln hjälper företag med hemläxan”*, interview.
-
-29. Ny Teknik (June 2004),
+27. Ny Teknik (June 2004),
     *“Han ska göra industrin sugen på supernätet”*, interview.
-
-
-### SELECTED ACADEMIC COMMUNITY PARTICIPATION (2009-)
-
-
-2014.09.04-05, NordicCloud 2014 (program chair), Stockholm, Sweden
-2014.06.23-27, ScienceCloud 2014 (program committee), Vancouver, Canada
-2014.05.19-23, The EGI Community Forum 2014, Helsinki, Finland
-2014.04.03-04, 4th International Conference on Cloud Computing and Services Science (program committee), Barcelona, Spain
-2014.04.02-03, EASC2014, Solving Software Challenges for Exascale, Stockholm, Sweden
-2014.02.24-25, CloudScape VI (panel), Brussels, Belgium
-
-### Data-Intensive Computing, Cloud and Innovation Presentations and Events
-
-- 2013.12.15-18, 19th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2013) (program committee, did not attend), Seoul, Korea
-- 2013.12.02-03, Spark Summit, San Francisco, USA
-- 2013.11.19, "The Big Data Revolution: Regional Growth and Business Opportunities", Aalborg University Copenhagen, Denmark
-- 2013.10.03, "Data Exploration – the 4th paradigm of Science", KTH-GMU Workshop on Internationalization and Competitiveness (presenting, panel), Stockholm, Sweden
-- 2013.09.01-03, NordiCloud 2013 (program committee), Oslo, Norway
-- 2013.06.20-21, EU-China-North America Workshop on HPC Cloud and Big Data (presenting), Stavanger, Norway
-- 2013.06.19, Digital Agenda for Europe, Dublin, Ireland (invited delegate)
-- 2013.06.17, 4th Workshop on Scientific Cloud Computing (Science Cloud 2013) (program committee), New York, USA (did not attend)
-- 2013.06.10, "Från Molnet till BigData" (presenting), VINNOVA och Entreprenörskapsforum, Stockholm, Sweden
-- 2013.05.13-16, The Nordic e-Infrastructure Conference 2013, Trondheim, Norway
-- 2013.05.08-10, 3rd International Conference on Cloud Computing and Services Science (program committee), Aachen, Germany (did not attend)
-- 2012.11.27-29, Amazon Re:Invent, Las Vegas, USA
-- 2012.11.22, Entreprenörskapsforum – (presenting report 'Cloud Computing - Challenges and Opportunities for Swedish Entrepreneurs'), Stockholm, Sweden
-- 2012.09.24-26, CloudComp - 3rd International Conference on Cloud Computing (program committee), Wienna, Austria
-- 2012.08.20-21, NordiCloud - Nordic Symposium on Cloud Computing & Emerging Internet Technologies (part of WICSA/ESCA 2012) (co-chair), Helsinki, Finland
-- 2012.06.18, 3rd Workshop on Scientific Cloud Computing (program committee - did not attend), Delft, The Netherlands
-- 2012.05.16, SNIC Cloud Computing Course at UPPMAX, Uppsala University, Sweden (Coordinator, Intro, Wrap-up)
-- 2012.05.07-08, Cloud Futures 2012, UC Berkeley, USA
-- 2012.03.28-29, EGI CF (great EGI Cloud FT demos), Munich, Germany
-- 2012.02.21, Cloud and eScience, UPPMAX, Uppsala University, Sweden (presenter)
-- 2011.12.08, e‐Science Paper Session 7B, Tools (session chair), Stockholm, Sweden
-- 2011.12.07, eScience 2011 Workshop: Cloud Interfaces and Virtualization for e-Science and Industry (organizing), Stockholm, Sweden
-- 2011.11.29, Cloud Tech Day (organizing), Stockholm, Sweden
-- 2011.09.26-27, ISC Cloud '11, Mannheim, Germany
-- 2011.09.14, Cloud Day 2011 (organizing), Stockholm, Sweden
-- 2011.06.08, VDTC11 ACM conference (speaker), San Jose, USA
-- 2011.05.05, Cloud Computing and Startups, SICS Open Day, Kista, Sweden (presenting)
-- 2011.04.13, EGI UF, 3rd Enabling Clouds for eScience Workshop, Vilnius, Lithuania (organizer, presenting)
-- 2011.03.15, CloudScape-III, Brussels: Enabling Clouds for eScience - The open collaboration spot for cloud projects in Europe
-- 2011.02.03, Seminarium om Cloudområdets möjligheter och hot, Stockholm: Innovationer i Molnet (presenter)
-- 2010.11.16, Danish Research Network, Middlefart: Cloud Computing for eScience - today and future (presenter)
-- 2010.10.22, Cloud Computing, CSC, Espoo: Cloud Innovation Platforms (presenter)
-- 2010.10.06, Mindtrek, Tampere: What are the services Cloud could offer? (presenter)
-- 2010.05.19, NOTUR 2010, Bergen: x10 Questions and Answers about Cloud Computing (presenter)
-- 2010.05.04, Nordugrid 2010, Ljubljana: NEON and VENUS-C - two new cloud projects (presenter)
-- 2010.04.13, NDGF AHM, Uppsala: Northern Europe Cloud Initiative Status Report (presenter)
-- 2010.03.28-29, Two-day Inforte seminar course on "Cloud Computing and Service Engineering", Helsinki, Finland. (presenting Cloud Security & Cloud and Innovative Companies), together with Stefan Tai.
-- 2010.03.24, PDC Seminar, Stockholm: Cloud Computing Security - an Oxymoron? (presenter)
-- 2010.03.16, OGF Europe, Munich: ECEE - Enabling Clouds for EsciencE (BOF) (Initiator)
-- 2010.03.08, Technion, Haifa & TAU, Tel Aviv, Israel: Cloud computing and Innovative Companies (presenter)
-- 2009.12.17, Industry day, Vilnius: Innovative companies and cloud computing (presenter)
-- 2009.12.14, KTH Innovation, Stockholm: Cloud computing for innovative companies and their support (presenter)
-- 2009.11.26, IST, Innovative Software Technology, Tartu: Innovative companies and cloud computing (presenter)
-- 2009.10.15, CSC/Finnogrid, Services in the Clouds Industry Seminar, Espoo: Microstartups and cloud computing (presenter)
-- 2009.10.13, SUMMIT09, Cloud and HPC workshop, Banff: NEON - the Northern Europe Cloud Initiative (presenter)
-- 2009.09.21, EGEE09, Cloud and Grid workshop (co-chair), Barcelona: BGi and Northern Europe Cloud (NECloud)
-- 2009.09.15, Terena 4th TF-Storage Meeting, Copenhagen: Baltic Cloud, and the new Northern Europe Cloud (presenter)
-- 2009.07.17, ISSGC09, Sophia Antipolis: Cloud computing, Virtualisation and the Future (presenter)
-- 2009.06.12, Cloud Computing Day, Oslo: Grid, Cloud and Innovation (presenter)
-- 2009.05.27, LitGrid, Vilnius: Cloud computing (presenter)
-- 2009.05.25, UT, Tartu: Startup School (Initiator, presenter)
-- 2009.04.24, LSE, London: Extending the iED Ecosystem with Cloud Computing
-- 2009.04.21, KTH, Stockholm: Cloud computing - pay-as-you-go computing explained (presenter)
-
-**2004-2009**: Many grid computing events, especially from the Enabling Grids for eScience (EGEE) project
-
-**1993-1999**: Numerous distributed computing and scientific computing presentations
+```
