@@ -1,7 +1,5 @@
 # From Quantum Simulation to Enterprise AI: A Career Across Three Computing Paradigms
 
-**Åke Edlund, PhD**
-
 My professional career spans more than three decades and follows the fundamental evolution of large-scale computing itself: from early high-performance computing (HPC) and numerical simulation, through distributed and grid computing, to cloud computing, data-intensive science, and today enterprise-scale **AI, GenAI, and agentic systems**. Throughout this journey, my work has consistently focused on the intersection of **mathematical modelling, scalable computing architectures, and real-world scientific and industrial applications**.
 
 ---
