@@ -6,7 +6,7 @@ My professional career spans more than three decades and follows the fundamental
 
 ## Foundations in Numerical Analysis and Quantum Physics
 
-I began my academic path in Engineering Physics at Uppsala University, with an early specialization in **numerical methods and scientific computing**. My master’s work focused on transport-corrected numerical models for nuclear reactor simulations at ABB Atom. This quickly evolved into advanced research in **time-dependent quantum mechanics**, where I pursued graduate studies both in Sweden and the United States.
+I began my academic path in Engineering Physics at Uppsala University, with an early specialization in **numerical methods and scientific computing**. My master’s work focused on transport-corrected numerical models for nuclear reactor simulations at ABB Atom. This quickly evolved into advanced research in **time-dependent quantum mechanics**, where I pursued graduate studies both in Sweden, the United States, and Israel.
 
 My Licentiate degree (1996) addressed **quantum time evolution in time-dependent fields using Krylov subspace methods**, and culminated in a PhD from Technion – Israel Institute of Technology (1999). My doctoral work focused on **parallel preconditioned Krylov methods for multidimensional quantum scattering**, targeting some of the most demanding computational problems in quantum chemistry and quantum physics. This work contributed new scalable solvers for large, high-dimensional, time-dependent partial differential equations.
 
