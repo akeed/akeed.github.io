@@ -244,7 +244,7 @@ That is now how I prefer to architect.
 
 This work would not exist without:
 
-* **AI-assisted coding**, primarily using Claude Sonnet via Copilot
+* **AI-assisted coding**, primarily using Claude Sonnet 4.5 via Github Copilot agent mode
 * **Tarek Abouzeid’s** foundational work on the
   [data-lab-playground](https://github.com/tarekabouzeid/data-lab-playground)
 
