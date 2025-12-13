@@ -4,12 +4,16 @@
 
 ## Latest
 
-- [AI Augmented: Your Creativity Is the Limit Now](Your-Creativity-Is-the-Limit-Now/index.md) 
+- [Code First, Then Write](Code-first-then-write/index.md)
 
-    *Building a Knowledge Hub with AI - local, practical, and iterative*
+    *The approach to architecting that starts with implementation. amplifying overall architectural thinking*
 
 
 ## Older
+
+- [AI Augmented: Your Creativity Is the Limit Now](Your-Creativity-Is-the-Limit-Now/index.md) 
+
+    *Building a Knowledge Hub with AI - local, practical, and iterative*
 
 - [AI assisted coding, in the hands of a pro](AI-assisted-coding_in-the-hands-of-a-pro/index.md)
 
