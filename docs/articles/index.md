@@ -4,12 +4,16 @@
 
 ## Latest
 
-- [Code First, Then Write](Code-first-then-write/index.md)
+- [The Architecture of Readiness – Built to Evolve](DIS-article-2026/index.md)
 
-    *The approach to architecting that starts with implementation. amplifying overall architectural thinking*
+    *How building for constant change — not for today's technology — keeps systems and organizations future-ready*
 
 
 ## Older
+
+- [Code First, Then Write](Code-first-then-write/index.md)
+
+    *The approach to architecting that starts with implementation. amplifying overall architectural thinking*
 
 - [AI Augmented: Your Creativity Is the Limit Now](Your-Creativity-Is-the-Limit-Now/index.md) 
 

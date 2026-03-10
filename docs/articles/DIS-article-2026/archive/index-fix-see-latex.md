@@ -1,0 +1,225 @@
+<div style="text-align: center; font-size: 2.2em; font-weight: 700; margin-top: 20px; margin-bottom: 20px;">
+  The Architecture of Readiness: Built to Evolve
+</div>
+
+<div style="display: flex; justify-content: center; gap: 40px; margin-top: 10px; margin-bottom: 50px;">
+  <div style="width: 300px; text-align: center;">
+    <strong>Åke Edlund</strong><br>
+    Chief Architect — Analytics & AI<br>
+    Head of AI & Exploration (acting)<br>
+    Telia Company
+  </div>
+  <div style="width: 300px; text-align: center;">
+    <strong>Tarek Abouzeid</strong><br>
+    Lead AI and Data Platform Engineer<br>
+    Telia Company
+  </div>
+</div>
+
+**“The goal posts keep moving.”**
+
+Or rather, the whole game is changing, again.
+
+So the real question is not how to build for today’s technology, but how to build for constant change.
+
+Because change comes in many forms: new technologies, new ways of working, new architectural paradigms, and new business expectations. If we optimize for any one of them, we fall behind on the rest. The only viable strategy is to build systems and organizations that can evolve.
+
+
+
+### Building for change, not for technology
+
+The cornerstone of our approach has been **evolutionary architecture**: modular systems, loose coupling, and clear interfaces.
+
+Years ago, during the “big data” wave, we made a deliberate choice to separate compute from storage. At the time, it was a technical decision. In hindsight, it was a strategic one.
+
+That single principle allowed us to evolve compute independently, introduce new processing engines, and scale without rewriting everything. It turned change from a risk into a capability.
+
+An important part of that foundation has been open source. Not as a principle in itself, but as a practical enabler of portability, transparency, and control. It gave us building blocks that could evolve with us, and that we could shape as we evolved. That has become increasingly important as our platforms, and now AI capabilities, continue to evolve.
+
+The same thinking guided our early adoption of open platforms like Kubernetes and Spark. The goal was never to “bet on Spark” or “standardize on Kubernetes.” The goal was portability and replaceability.
+
+We wanted a platform that could:
+
+* scale across environments,
+* move between infrastructures,
+* and continuously evolve.
+
+That foundation now supports everything from traditional analytics and visualization to machine learning and deep learning, without fundamental redesign.
+
+
+
+### Always on the lookout for the next wave
+
+But building for change is not enough on its own.
+
+You also need to continuously look ahead.
+
+We make a deliberate effort to stay close to what is emerging, not just by following trends, but by actively testing and experiencing them. New models, new tools, new ways of working, we try them early to understand what they actually are.
+
+Because not everything new matters equally.
+
+Some things are hype. Some are not yet practical. Some are incremental improvements. And some, often less obvious at first, turn out to be real game changers.
+
+Distinguishing between these is not something you can outsource. It requires hands-on exploration, technical depth, and a willingness to experiment.
+
+This continuous scanning and testing connects the outside pace of innovation with our internal ability to evolve.
+
+
+
+### From analytics to modern AI: evolution, not disruption
+
+Looking back, the transition from classical analytics to machine learning, and then to deep learning, was not a series of revolutions. It was an evolution.
+
+Each step unlocked new value:
+
+* better predictions,
+* richer insights,
+* new business opportunities.
+
+But each step also forced maturity:
+
+* experimentation discipline,
+* model lifecycle management,
+* handling GPU workloads,
+* and operating ML systems reliably in production.
+
+That experience matters more than many realize.
+
+When generative AI entered the mainstream, it appeared as a sudden discontinuity. In reality, it was a sharp acceleration.
+
+Transformers, embeddings, model serving, evaluation, and governance were not entirely new problems.
+
+**The real shift was not the math. It was the interface.**
+
+For the first time, business users could interact with systems in natural language. That shift, from structured interaction to conversational, is what made AI broadly accessible.
+
+
+
+### AI is not just what we build; it’s how we build
+
+Initially, we approached AI in the traditional way, building capabilities for others to consume.
+
+We still do. But along the way, AI also started to transform how we build.
+
+As we enabled others through platforms, tooling, and training, we also began using AI ourselves:
+
+* AI-assisted coding,
+* rapid prototyping,
+* context-driven development.
+
+Developers began to act more like architects, and business and IT alignment became less about translation and more about shared context.
+
+We are now moving into what could be called **context engineering**, where the key skill is not just writing code, but shaping the right context for AI systems to operate effectively.
+
+At the same time, new layers are emerging. Traces are becoming the observability layer, and evaluations the feedback loop, giving us a way to understand behavior, improve quality, and build trust.
+
+This shift is already visible in daily work:
+
+* from chat-based assistance to agent-based workflows,
+* from static tools to dynamic, context-aware systems.
+
+And it is happening in a controlled way, through our LLM gateway, governance models, and internal platforms.
+
+At the same time, we are actively exploring a set of emerging patterns around agent-based systems: agent skills, Model Context Protocol (MCP), and agent-to-agent interactions.
+
+These concepts point to a more modular and composable way of building AI systems, where capabilities can be combined and orchestrated dynamically, but they are still evolving.
+
+Many of these approaches are not yet ready for enterprise use out of the box. They often lack critical aspects such as governance, security, access control, and operational robustness.
+
+That is where our focus comes in.
+
+We explore these patterns early, in a structured and controlled way, shaping them to meet enterprise requirements. This includes building the necessary layers around them, such as gateways, guardrails, and integration patterns.
+
+In that sense, we are not just adopting new ideas, we are contributing to making them usable in a real-world, enterprise context.
+
+
+
+### AI for IT: using AI to transform ourselves
+
+We often talk about AI for customers. Just as important is AI for ourselves.
+
+Across network operations, B2C, B2B, and internal IT, we are applying AI to improve how we operate. Or, as one of our colleagues put it, *we drink our own champagne.*
+
+Hackathons, internal initiatives, and grassroots experimentation have played a key role. Visualization tools, database experiments, and agent prototypes are not side projects. They are how new ways of working emerge.
+
+The result is not just better tools. It is a different pace of learning.
+
+
+
+### Sovereign AI: the next frontier
+
+At the same time, another shift is happening. It is less about capability and more about control.
+
+**Sovereign AI.**
+
+But we want more.
+
+Not just sovereign AI, but sovereign AI as a service, at the edge.
+
+This complements what we already do across public cloud and partner platforms. Our approach remains deliberately hybrid, matching workloads to the environments where they create the most value.
+
+Some data will never leave its environment. It doesn’t have a passport, and it never will.
+
+In the past, this was a limitation. Today, it is increasingly a design principle.
+
+But sovereignty does not exist in isolation, it is enabled, and increasingly enabled by **open source**.
+
+As public cloud evolved from IaaS to PaaS to SaaS, the gap to private environments initially widened. But open source has consistently closed that gap:
+
+* first with platforms like Spark,
+* then with Kubernetes,
+* and now with open-weight LLMs.
+
+Open source has become a key enabler in how we build and evolve our AI and data platforms. It is not just about tooling, it is about reducing complexity, accelerating industrialization, and keeping the platform adaptable over time.
+
+By relying on open, standardized building blocks, we can move faster while maintaining control. It allows us to evolve capabilities without locking into specific vendors or hyperscalers, and to align AI with broader enterprise platform strategies.
+
+From an architectural perspective, platforms such as Kubeflow, combined with high-performance runtimes like vLLM, are forming a sovereign-ready foundation for modern AI systems. Their portability enables consistent deployment across environments, public cloud, private cloud, and edge, while supporting regulatory and data sovereignty requirements.
+
+This is a key accelerator, not just for adopting AI, but for scaling it in a way that fits enterprise reality.
+
+What we are seeing now is convergence.
+
+Our private cloud, built over more than a decade, has evolved into a Kubernetes-based lakehouse platform with software-defined infrastructure. In many ways, it offers the same developer experience as public cloud.
+
+That is what “serverless” really means, not where it runs, but how it feels to use.
+
+The motivation has also shifted. What started as cost optimization is now about sovereignty, control, and compliance.
+
+European initiatives and real-world implementations, such as fully air-gapped environments with models hosted on-premises, show that this is not theoretical. It is happening now.
+
+And with modern tooling, the possibilities are broader than ever:
+
+* open-weight LLMs running on diverse hardware,
+* agent-based systems,
+* AI-assisted development in secure environments.
+
+
+
+### What about the legacy?
+
+A natural question is what happens to everything that came before.
+
+The answer is simple, we evolve it.
+
+Legacy systems are not replaced overnight. They are wrapped, extended, and gradually transformed:
+
+* APIs and facades,
+* incremental modernization,
+* AI-assisted understanding and refactoring.
+
+We are not abandoning the past, we are building a path forward from it.
+
+
+
+### Final thought
+
+Looking back, the pattern is clear.
+
+We never really knew what was coming next, but the choices we made, modularity, openness, and the ability to evolve, kept us moving.
+
+**Our strategy was not to predict the future. It was to be ready for it.**
+
+Because the goal posts will keep moving.
+
+And the only thing that scales is the ability to adapt.
